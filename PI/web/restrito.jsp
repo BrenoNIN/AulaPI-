@@ -13,12 +13,12 @@
     <body>
         <header>
             <div class="logo">
-                <img src="logo.png.webp" alt="Logotipo da amazon">
+                <img src="logo.png" alt="Logotipo do site">
             </div>
 
             <div class="texto">
                 <h1>
-                    Controle de produtos
+                    A maior franquia de bolos do país
                 </h1>
             </div>
 
